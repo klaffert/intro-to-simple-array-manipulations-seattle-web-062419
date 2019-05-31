@@ -32,4 +32,5 @@ def shift_with_args(array)
   array.shift(2)
 end
 # => takes in an argument of an array and uses the shift method with an argument of 2 and returns the first two items in the array
-# => 
+# => "Blue Bell Creameries", "Ben and Jerry's"
+
