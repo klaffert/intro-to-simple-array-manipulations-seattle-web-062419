@@ -38,4 +38,7 @@ def using_concat(array, array1)
   array.concat(array1)
 end 
 # => takes in two arguments of two different arrays and uses the concat method to add the contents of the second array to the first array 
-# =>
+# => "raindrops on roses", "whiskers on kittens", "mario kart", "flatiron school
+
+def using_insert(array,new_element)
+  array
