@@ -35,4 +35,4 @@ end
 # => "Blue Bell Creameries", "Ben and Jerry's"
 
 def using_concat(array, array1)
-  array concat array1 
+  array.concat(array1)
