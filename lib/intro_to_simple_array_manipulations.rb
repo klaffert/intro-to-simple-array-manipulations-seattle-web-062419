@@ -48,4 +48,7 @@ end
 
 def using_uniq(array)
   array.uniq
+end
+# => takes in an argument of an array and uses the uniq method to remove any duplicate items
+# => 
 
