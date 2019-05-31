@@ -43,4 +43,6 @@ end
 def using_insert(array,new_element)
   array.insert(4, new_element)
 end
+# => takes in two arguments, an array and a new element, to be added to the array; it uses the insert method to add the new method to the 4th index of the array
+# =>
 
