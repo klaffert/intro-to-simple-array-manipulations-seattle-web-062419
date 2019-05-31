@@ -41,4 +41,6 @@ end
 # => "raindrops on roses", "whiskers on kittens", "mario kart", "flatiron school
 
 def using_insert(array,new_element)
-  array
+  array.insert(4, new_element)
+end
+
