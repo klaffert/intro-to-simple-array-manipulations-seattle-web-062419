@@ -9,3 +9,8 @@ def using_unshift(array,string)
 end 
 # => using_unshift takes in two arguments, an array and a string, and adds that string to the front of the array using the unshift method
 # => "Brooklyn Heights", Brooklyn Yards", "Cadman Plaza", "Clinton Hill", "Downtown Brooklyn", "DUMBO"
+
+def using_pop(array)
+  array.pop 
+end
+# => using_pop takes in an argument of an array and uses the pop method to remove the last element from the array and return that element 
