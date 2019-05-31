@@ -59,6 +59,6 @@ end
 # => "New York University", "Manhattan School of Music ", "Columbia University", "The Juilliard School", "Bard College", "Cooper Union"
 
 def using_delete(array,string)
-  
+  array(string)
 end 
 
