@@ -52,5 +52,6 @@ end
 # => takes in an argument of an array and uses the uniq method to remove any duplicate items
 # => "Captain Planet", "Gaia", "Kwame", "Gi", "Linka", "Wheeler"
 
-
+def using_flatten(array)
+  
 
