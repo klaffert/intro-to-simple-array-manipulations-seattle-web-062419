@@ -62,4 +62,7 @@ def using_delete(array,string)
   array.delete(string)
 end 
 # => takes in two arguments, an array and a string, and uses the delete method to remove any items from an array that are equal to that string
-# => 
+# => "Josh", "Sophie", "Amanda"
+
+def using_delete_at(array,integer)
+  
