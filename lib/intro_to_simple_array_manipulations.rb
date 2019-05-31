@@ -56,5 +56,8 @@ def using_flatten(array)
   array.flatten 
 end
 # => takes in an argument of an array that contains other arrays and uses the flatten method to return an array of strings 
-# => 
+# => "New York University", "Manhattan School of Music ", "Columbia University", "The Juilliard School", "Bard College", "Cooper Union"
+
+def using_delete(array,string)
+
 
