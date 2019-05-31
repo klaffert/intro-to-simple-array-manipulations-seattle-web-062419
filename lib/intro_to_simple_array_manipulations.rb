@@ -27,3 +27,9 @@ array.shift
 end
 # => takes in an argument of an array and uses the shift method to remove the first item and return item
 # => "Lagos"
+
+def shift_with_args(array)
+  array.shift(2)
+end
+# => takes in an argument of an array and uses the shift method with an argument of 2 and returns the first two items in the array
+# => 
