@@ -14,3 +14,8 @@ def using_pop(array)
   array.pop 
 end
 # => using_pop takes in an argument of an array and uses the pop method to remove the last element from the array and return that element 
+# => "Baby One More Time", "Smells Like Teen Spirit", "Missing", "Walking On The Sun", "Hard Knock Life"
+
+def pop_with_args(array)
+  array.pop(2)
+end 
