@@ -53,5 +53,6 @@ end
 # => "Captain Planet", "Gaia", "Kwame", "Gi", "Linka", "Wheeler"
 
 def using_flatten(array)
-  
+  array.flatten 
+end
 
